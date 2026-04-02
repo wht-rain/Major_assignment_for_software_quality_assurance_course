@@ -1,0 +1,2 @@
+# Major_assignment_for_software_quality_assurance_course
+软件质量保障课程大作业（西安电子科技大学软工大三年级）
